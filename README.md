@@ -108,7 +108,7 @@ The dashboard is interactive and allows filtering by role, experience, and locat
 ## 📸 Dashboard Screenshots
 
 ### 🔹 Dashboard Overview
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](Dashboard_Overview.png)
 
 ### 🔹 Salary by Experience Level
 ![Salary by Experience](Salary_By_Experience_Level.png)
